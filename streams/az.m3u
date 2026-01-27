@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="AlvinChannelTV.az@SD",Alvin Channel TV (360p) [Not 24/7]
-https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
+https://www.canlitv.vin/atvazad-canli.m3u8
 #EXTINF:-1 tvg-id="",AnewZ
 https://53be5ef2d13aa.streamlock.net/cubesanewz-secure/smil:cubesanewz-secure-web.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="APATv.az@SD",APA Tv
@@ -44,3 +44,4 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv
 http://109.205.166.68/server124/aztv/index3.m3u8?st=AzGSZjk1DpXY1SLc1m4OvA&e=1676581573
 #EXTINF:-1 tvg-id="KapazTV.az@SD",Kapaz TV
 http://85.132.78.122:8050/hls/stream/index.m3u8
+
